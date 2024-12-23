@@ -15,6 +15,7 @@ This repository contains folders with various examples of of data-cleaning proje
 -  Pandas: Offers extensive functions for manipulating dataframes.
 -  NumPy: Useful for handling numerical data.
 -  Scikit-learn: Provides tools for handling missing values and scaling or normalizing data.
+-  Seaborn and Matplotlib: For data visualization.
 
 ## Python Projects:
 
